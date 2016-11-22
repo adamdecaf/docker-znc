@@ -5,7 +5,7 @@ mkdir -p /home/znc
 chown -R znc:znc /home/znc
 
 flags=''
-if [[ ! -f /home/znc/.znc ]];
+if [[ ! -d /home/znc/.znc ]];
 then
     flags='--makeconf'
 fi
