@@ -1,6 +1,8 @@
 # docker-znc
 
-ZNC running inside a docker container.
+ZNC running inside a docker container. 
+
+![](https://img.shields.io/docker/automated/adamdecaf/docker-znc.svg)
 
 ## Usage
 
