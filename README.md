@@ -2,7 +2,7 @@
 
 ZNC running inside a docker container. 
 
-![](https://img.shields.io/docker/automated/adamdecaf/docker-znc.svg)
+![](https://img.shields.io/docker/automated/adamdecaf/docker-znc.svg) - [hub.docker.com/r/adamdecaf/docker-znc](https://hub.docker.com/r/adamdecaf/docker-znc/)
 
 ## Usage
 
